@@ -1,0 +1,15 @@
+{
+  "name": "Git Readme Gen",
+  "version": "1.0.0",
+  "description": "create github readme files for your project.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Locket",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
