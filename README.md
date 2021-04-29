@@ -11,6 +11,7 @@
 
 ## Description
 This is a readme file generator which creates a readme.md file from user inputs based on a series of questions.
+here is a short video of how the application works: https://drive.google.com/file/d/1Rm0Ax-KYAytMkLo78QcIOExRn9PxEueB/view
 
 ## Installation 
 you will need to install the inquirer dependency before running the application.
